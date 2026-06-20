@@ -1,0 +1,23 @@
+[project]
+name = "learn"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "art>=6.5",
+    "cowsay>=6.1",
+    "django>=6.0.6",
+    "icecream>=2.2.0",
+    "numpy>=2.4.6",
+    "pendulum>=3.2.0",
+    "polars>=1.41.2",
+    "pydantic>=2.13.4",
+    "pyjokes>=0.8.3",
+    "pypdf>=6.13.3",
+    "result>=0.17.0",
+    "seaborn>=0.13.2",
+    "tensorflow>=2.21.0",
+    "tqdm>=4.68.3",
+    "xarray>=2026.4.0",
+]
